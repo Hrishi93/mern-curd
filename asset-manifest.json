@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mern-curd/static/css/main.0ff9efdb.css",
+    "main.js": "/mern-curd/static/js/main.e52dca65.js",
+    "index.html": "/mern-curd/index.html",
+    "main.0ff9efdb.css.map": "/mern-curd/static/css/main.0ff9efdb.css.map",
+    "main.e52dca65.js.map": "/mern-curd/static/js/main.e52dca65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff9efdb.css",
+    "static/js/main.e52dca65.js"
+  ]
+}
